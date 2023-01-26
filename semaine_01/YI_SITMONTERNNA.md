@@ -1,5 +1,5 @@
 # Sitmonternna Yi
-![nourriture]()
+![nourriture](thumbnail_20230112_190059.jpg)
 
 ## INTÊRETS DANS LE DOMAINE TIM
 
