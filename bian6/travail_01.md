@@ -1,6 +1,6 @@
 ### NOM DE L' EXPOSITION
   Arsenal-Bian 6 metamorphosis
-  ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+  ![alt text]( "Logo Title Text 1")
 
 ### LIEU
   2020 William, Montreal, QC
@@ -32,6 +32,7 @@
 ### COMPOSANTE ET TECHNIQUE
   Cette oeuvre numérique est composé de 9 écrans, 1 sculpture écrans, de plantes artificielle ainsi que des électriques. 
   Les écrans ont été activiter par les fils disposer en arrière de l'écran 
+  ![alt text]( "Logo Title Text 1")
 
 ### ÉLÉMENT NÉCESSAIRE
   Les écrans sont supporté des fils du haut grace à des fils mise en place par les employés du musé.
