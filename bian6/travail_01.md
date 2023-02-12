@@ -1,6 +1,5 @@
 ### NOM DE L' EXPOSITION
   Arsenal-Bian 6 metamorphosis
-  ![alt text]( "Logo Title Text 1")
 
 ### LIEU
   2020 William, Montreal, QC
@@ -23,6 +22,7 @@
 ### DESCRIPTION DE L'OEUVRE
   Des écrans activiter pour qu'on puisse voir l'art du monde virtuelle que l'artiste a crée. De plus, l' artiste à également mis une démonstration
   des fils et des composantes utilsé pour activer les écrans. Il voulait démontrer ce qui se passe derrière son art.
+  ![alt text](https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/bian6/cartel(1).jpg "Cartel")
   
 ### TYPE D'INSTALLATION
   
