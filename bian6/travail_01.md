@@ -1,5 +1,5 @@
 ### NOM DE L' EXPOSITION
-  Arsenal-Bian 6 metamorphosis
+  L' Arsenal-Bian 6 metamorphosis est un 
 
 ### LIEU
   2020 William, Montreal, QC
