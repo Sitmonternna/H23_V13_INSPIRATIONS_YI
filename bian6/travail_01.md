@@ -1,9 +1,13 @@
+Le BIAN (biennale internationale d'art numérique) est une exposition d'art  présenté par ELECTRA depuis 2012. Cette année, elle est de retour à l'Arsenal art         contemporain situer sur 2020 rue William à Montreal pour sa sixième exposition d'art contemporain numérique: Bian 6 metamorphosis-mutation. Cette fois-ci le BIAN 
+a choisi de faire une exposition tournée sur le processus de mutation. À cause de notre expérience avec la post-pandémie, celle-ci nous a pertubé aux niveaux géologique et climatique, ce qui nous a amener à repenser à notre mode vie et nos valeurs. Le thème de mutation de cette exhibition est de démontrer le mouvement, la mobilité autant dans la vie réel qu'en réalité virtuelle. Celle-ci a aussi pour but de démontrer les anciennes et nouvelles technologies, ainsi l'exhibition a rassemblé 26 oeuvres de 27 artistes différents provenant de 4 contients différents. D'ou ces oeuvres nous donne un message sur nos actions de notre époque, qui remet en question les conséquences de notre présent et notre futur. Elle cherche aussi a nous démontrer une vision progressive sur la culture, la technologie et l'avenir de l'expression.
+  
+
 ### NOM DE L' EXPOSITION
-  L' Arsenal-Bian 6 metamorphosis est un 
-
 ### LIEU
-  2020 William, Montreal, QC
+  
 
+Nature morte 7 créé par Baron Lanteige est une oeuvre nuérique composé de 9 écrans, 1 sculpture écrans, de plantes artificielle ainsi que des électriques. 
+Les écrans ont été activiter par les fils disposer en arrière de l'écran pour allumer l'écran retrouver au centre afin de démontrer l'oeuvre sur celle-ci.
 ### TYPE D'EXPOSITION
   Intérieur
 
@@ -11,7 +15,7 @@
   2023 02 02
 
 ### TITRE DE L' OEUVRE
-  Nature morte 7
+  
 
 ### NOM DE L' ARTIST
   Baron Lanteige
@@ -45,3 +49,7 @@
 ### ASPECTS NÉGATIFS
   C'est inévitable, mais certain démonstration avait des bogues techniques. En particulier, celui des robots avaits beaucoup de lumières qui ''flash'' 
   dans nos yeux et c' était très inconfortable.
+  
+  Sites de référence:
+  https://www.elektramontreal.ca/biennale2022?lang=fr
+  Guides
