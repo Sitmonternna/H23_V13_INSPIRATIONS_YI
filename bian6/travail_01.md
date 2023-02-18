@@ -48,7 +48,7 @@ employés au également mis en place des fils fixer du plafond pour tenir dans l
 02 février 2023
 
 ### EXPÉRIENCE VÉCU
-En général la visite était amusante, les guides étaient aussi très accueillant 
+En général la visite était amusante, les guides étaient aussi très accueillant et enthousiaste à répondre à nos questions. 
 
 ### ASPECTS POSITIFS
   Une diversité de différente art numérique et l'espacement entre les arts dans le musé.
