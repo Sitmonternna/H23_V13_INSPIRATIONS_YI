@@ -2,6 +2,8 @@
 ### BIAN 6
 Le BIAN (biennale internationale d'art numérique) est une exposition d'art  présenté par ELECTRA depuis 2012. Cette année, elle est de retour à l'Arsenal artcontemporain  pour sa sixième exposition d'art contemporain numérique: Bian 6 metamorphosis-mutation. Cette fois-ci le BIAN a choisi de faire une exposition tournée sur le processus de mutation. À cause de notre expérience avec la post-pandémie, celle-ci nous a pertubé aux niveaux géologique et climatique, ce qui nous a amener à repenser à notre mode vie et nos valeurs. Le thème de mutation de cette exhibition est de démontrer le mouvement, la mobilité autant dans la vie réel qu'en réalité virtuelle. Celle-ci a aussi pour but de démontrer les anciennes et nouvelles technologies, ainsi l'exhibition a rassemblé 26 oeuvres de 27 artistes différents provenant de 4 contients différents. D'ou ces oeuvres nous donne un message sur les actions de notre époque, ce qui remet en question les conséquences de notre présent et notre futur. Elle cherche aussi a nous démontrer une vision progressive sur la culture, la technologie et l'avenir de l'expression.
 
+<img height="400px" weight="400px" src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/bian6/muse(1).jpg">
+
 ### LIEU
 2020 rue William à Montreal
 
@@ -11,7 +13,11 @@ Intérieureelle se retrouve à l'intérieur du bâtiment de l'arsenal art contem
 # OEUVRE
 
 ### TITRE DE L' OEUVRE  
-Nature morte 7 
+
+**Nature morte 7** 
+
+
+<img height="400px" weight="400px" src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/bian6/vue_devant(1).jpg">
 
 ### NOM DE L' ARTIST
 Baron Lanteige 
@@ -20,7 +26,9 @@ Baron Lanteige
 2022
 
 ### DESCRIPTION DE L'OEUVRE
-  ![alt text](https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/bian6/cartel(1).jpg "Cartel")
+<img height="400px" weight="400px" src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/bian6/cartel(1).jpg">
+<img height="400px" weight="400px" src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/bian6/vue_arriere(1).jpg">
+<img height="400px" weight="400px" src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/bian6/vue_devant(1).jpg">
   
 Nature Morte 7 présente une fenêtre – unique mais fragmentée – composée d'écrans posés au sol. Elle ouvre sur un monde oublié, mais toujours en activité. La pièce centrale de cette œuvre combine un écran avec divers composantes électroniques qui s’illumine. La sculpture suspendue tourne le dos au spectateur, afin de mettre en évidence son fonctionnement interne. L’électroniques « grand public » dont l'œuvre est composée sont délibérément sortis de leur contexte habituel. Cela permet de révéler leur potentiel, qui est souvent banalisé.
 
@@ -29,9 +37,12 @@ L’oeuvre fait appel au contenant autant qu'au contenu ; l'électronique physiq
 **référence trouver sur le site de l'artiste:https://baronlanteigne.com/naturemorte7.html**
 
 ### TYPE D'INSTALLATION
+
 Contemplatif
   
 ### MISE EN ESPACE
+<img height="400px" weight="400px" src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/bian6/croquis.jpg">
+<img height="400px" weight="400px" src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/bian6/vue_devant(1).jpg">
 L'oeuvre a été placé dans une salle ouverte ou l'on peut retrouver d'autres oeuvres et elle se retrouve au millieu de la pièce. Elle a été didposé dans la pièce avec des fils transparente attaché au plafond pour soutenir l'écran ''principale'' et elle prend plus de place en hauteur qu'en largeur dans cette salle.
 
 ### COMPOSANTE ET TECHNIQUE
@@ -39,7 +50,7 @@ Nature morte 7 est une oeuvre numérique est composé de 9 écrans, 1 sculpture 
 employés au également mis en place des fils fixer du plafond pour tenir dans l'air l'écrans. Des écrans ont étés activiter pour qu'on puisse voir l'art du monde virtuelle que l'artiste a crée. De plus, l'artiste à également mis une démonstration des fils et des composantes utilsé pour activer les écrans.
 
 ### ÉLÉMENT NÉCESSAIRE
-  Les écrans sont supporté des fils du haut grace à des fils mise en place par les employés du musé afin de démontrer l'ouevre par l'artist.
+Les écrans sont supporté des fils du haut grace à des fils mise en place par les employés du musé afin de démontrer l'ouevre par l'artist.
 
 
 # Exprérience lors de la visite
