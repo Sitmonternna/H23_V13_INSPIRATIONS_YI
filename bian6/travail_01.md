@@ -7,6 +7,8 @@ Le BIAN (biennale internationale d'art numérique) est une exposition d'art  pr�
 ### LIEU
 2020 rue William à Montreal
 
+<img height="400px" weight="400px" src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/bian6/moi_devant.jpg">
+
 ### TYPE D'EXPOSITION
 Intérieureelle se retrouve à l'intérieur du bâtiment de l'arsenal art contemporain pour un peu plus qu'un mois( 1 décembre au 5 février)
 
@@ -39,6 +41,9 @@ L’oeuvre fait appel au contenant autant qu'au contenu ; l'électronique physiq
 ### TYPE D'INSTALLATION
 
 Contemplatif
+
+<img height="400px" weight="400px" src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/bian6/vue_arriere(1).jpg">
+<img height="400px" weight="400px" src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/bian6/vue_devant(1).jpg">
   
 ### MISE EN ESPACE
 <img height="400px" weight="400px" src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/bian6/croquis.jpg">
@@ -49,29 +54,39 @@ L'oeuvre a été placé dans une salle ouverte ou l'on peut retrouver d'autres o
 Nature morte 7 est une oeuvre numérique est composé de 9 écrans, 1 sculpture écrans, de plantes artificielle ainsi que des électriques. Le
 employés au également mis en place des fils fixer du plafond pour tenir dans l'air l'écrans. Des écrans ont étés activiter pour qu'on puisse voir l'art du monde virtuelle que l'artiste a crée. De plus, l'artiste à également mis une démonstration des fils et des composantes utilsé pour activer les écrans.
 
+<img height="400px" weight="400px" src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/bian6/ecran_haut(1).jpg">
+<img height="400px" weight="400px" src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/bian6/ecran_sol(1).jpg">
+<img height="400px" weight="400px" src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/bian6/ecran_vide(1).jpg">
+<img height="400px" weight="400px" src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/bian6/vue_arriere(1).jpg">
+
 ### ÉLÉMENT NÉCESSAIRE
 Les écrans sont supporté des fils du haut grace à des fils mise en place par les employés du musé afin de démontrer l'ouevre par l'artist.
 
+<img height="400px" weight="400px" src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/bian6/vue_arriere(1).jpg">
 
 # Exprérience lors de la visite
 
 ### DATE DE LA VISITE
-02 février 2023
+  02 février 2023
 
 ### EXPÉRIENCE VÉCU
-En général la visite était amusante, les guides étaient aussi très accueillant et enthousiaste à répondre à nos questions. 
+Vidéo link: https://www.youtube.com/shorts/EuRxStp8LHk
+
+En général la visite était amusante, les guides étaient aussi très accueillant et enthousiaste à répondre à nos questions. De plus, il y a une grande diversité de différentes arts numériques  il n' y avait pas seulement de l'art animé sur des écrans. Il y avait aussi de l'art numérique intéractive ou bien des arts par rapport à notre environnement, ce que j'ai bien aimé.J'ai aussi aimé le fait que les arts numériques sont venues de plusieurs place différente, il y a eu une bonne représentation global des arts autour du monde.
 
 ### ASPECTS POSITIFS
-  Une diversité de différente art numérique et l'espacement entre les arts dans le musé.
+  Pour commencer j'ai bien aimé l'espacement entre les arts dans le musé, grâce à l'espacement les visiteurs peuvent bien distingué un art     des autres. J'ai apprécier cet aspect du musé pourvu que cela ne nous mélange pas et j'ai bien aimé ce fait pour l'esthétique. D' ailleurs j'ai aimé le fait que plusieurs artistes avaient incorporés des matériaux électroniques dans leurs oeuvres, je pense que celui-ci donne une touche moderne à ceux-là.
+  
+  <img height="400px" weight="400px" src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/bian6/monsieur_nuage.png">
+  <img height="400px" weight="400px" src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/bian6/nuage_plein_ecran.png">
 
 ### ASPECTS NÉGATIFS
-  C'est inévitable, mais certain démonstration avait des bogues techniques. En particulier, celui des robots avaits beaucoup de lumières qui ''flash'' 
-  dans nos yeux et c' était très inconfortable.
+  C'est inévitable, mais certain démonstration avait des bogues techniques. En particulier, celui des robots avaits beaucoup de "flash" qui     nous faisait mal aux yeux, ce qui était très incomfortable. Par contre, celui-ci m'a appris qu' au futur je devrais toujours bien vérifier     les petits détails techniques pour que si jamais je présente mon oeuvre dans un musé, mon art ne rendrait pas les visteurs du musé            incomfortable.
 
  ## Sites de référence:
   https://www.elektramontreal.ca/biennale2022?lang=fr
   
-  Guides sur le bian 6
+  Guides donné lors de l'arrivé du bian 6
   
   https://baronlanteigne.com/naturemorte7.html
 
