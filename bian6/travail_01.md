@@ -75,13 +75,14 @@ Vidéo link: https://www.youtube.com/shorts/EuRxStp8LHk
 En général la visite était amusante, les guides étaient aussi très accueillant et enthousiaste à répondre à nos questions. De plus, il y a une grande diversité de différentes arts numériques  il n' y avait pas seulement de l'art animé sur des écrans. Il y avait aussi de l'art numérique intéractive ou bien des arts par rapport à notre environnement, ce que j'ai bien aimé.J'ai aussi aimé le fait que les arts numériques sont venues de plusieurs place différente, il y a eu une bonne représentation global des arts autour du monde.
 
 ### ASPECTS POSITIFS
-  Pour commencer j'ai bien aimé l'espacement entre les arts dans le musé, grâce à l'espacement les visiteurs peuvent bien distingué un art     des autres. J'ai apprécier cet aspect du musé pourvu que cela ne nous mélange pas et j'ai bien aimé ce fait pour l'esthétique. D' ailleurs j'ai aimé le fait que plusieurs artistes avaient incorporés des matériaux électroniques dans leurs oeuvres, je pense que celui-ci donne une touche moderne à ceux-là.
+Pour commencer j'ai bien aimé l'espacement entre les arts dans le musé, grâce à l'espacement les visiteurs peuvent bien distingué un art     des autres. J'ai apprécier cet aspect du musé pourvu que cela ne nous mélange pas et j'ai bien aimé ce fait pour l'esthétique. D' ailleurs j'ai aimé le fait que plusieurs artistes avaient incorporés des matériaux électroniques dans leurs oeuvres, je pense que celui-ci donne une touche moderne à ceux-là.
   
   <img height="400px" weight="400px" src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/bian6/monsieur_nuage.png">
   <img height="400px" weight="400px" src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/bian6/nuage_plein_ecran.png">
 
 ### ASPECTS NÉGATIFS
-  C'est inévitable, mais certain démonstration avait des bogues techniques. En particulier, celui des robots avaits beaucoup de "flash" qui     nous faisait mal aux yeux, ce qui était très incomfortable. Par contre, celui-ci m'a appris qu' au futur je devrais toujours bien vérifier     les petits détails techniques pour que si jamais je présente mon oeuvre dans un musé, mon art ne rendrait pas les visteurs du musé            incomfortable.
+Lien vers vidéo: https://www.youtube.com/watch?v=KIOceplKYWM
+C'est inévitable, mais certain démonstration avait des bogues techniques. En particulier, celui des robots avaits beaucoup de "flash" qui nous faisait mal aux yeux, ce qui était très incomfortable. Par contre, celui-ci m'a appris qu' au futur je devrais toujours bien vérifier les petits détails techniques pour que si jamais je présente mon oeuvre dans un musé, mon art ne rendrait pas les visteurs du musé incomfortable.
 
  ## Sites de référence:
   https://www.elektramontreal.ca/biennale2022?lang=fr
