@@ -82,6 +82,7 @@ Pour commencer j'ai bien aimé l'espacement entre les arts dans le musé, grâce
 
 ### ASPECTS NÉGATIFS
 Lien vers vidéo: https://www.youtube.com/watch?v=KIOceplKYWM
+
 C'est inévitable, mais certain démonstration avait des bogues techniques. En particulier, celui des robots avaits beaucoup de "flash" qui nous faisait mal aux yeux, ce qui était très incomfortable. Par contre, celui-ci m'a appris qu' au futur je devrais toujours bien vérifier les petits détails techniques pour que si jamais je présente mon oeuvre dans un musé, mon art ne rendrait pas les visteurs du musé incomfortable.
 
  ## Sites de référence:
