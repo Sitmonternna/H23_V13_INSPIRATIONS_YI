@@ -89,3 +89,38 @@ lien (https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/index.html)
 
   #### Technique nouvelle
           CLIP PAINT STUDIO
+
+## Préférences des projets lors de l'écoute audiovisuel
+   #### #1
+          Echomarine
+   #### #2
+          Edria
+   #### #3
+          Nexum
+   #### #4
+          Lumasol
+   #### #5
+          Zodiegal
+## Préférences des projets lors de la visite au studio
+   #### #1
+          Edria
+   #### #2
+          Echomarine
+   #### #3
+          Nexum
+   #### #4
+          Lumasol
+   #### #5
+          Zodiegal
+## Préférences des projets lors de la visite des projets multimédias
+   #### #1
+          Zodiegal
+   #### #1
+          Edria
+   #### #2
+          Echomarine
+   #### #3
+          Nexum
+   #### #4
+          Lumasol
+  
