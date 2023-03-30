@@ -13,13 +13,13 @@
   #### Installation en cours
   
   #### 3 cours du programmes incontournables -installation multimédia
-      -installation multimedia
-      -objets interactifs
-      -préparation au millieu du travail
-      -audio 2
+    -installation multimedia
+    -objets interactifs
+    -préparation au millieu du travail
+    -audio 2
 
   #### Technique nouvelle
-      Madmapper 
+    Madmapper 
     
   ##  Echo marine
 
@@ -32,6 +32,9 @@
     Maria Laura Coronel
 
   #### 3 cours du programmes incontournables -installation multimédia
+    - Web 5
+    - Instalation multimédia
+    - Animation 2d
 
   #### Technique nouvelle
     VCV Rack 2
@@ -49,30 +52,30 @@
     
 
   #### 3 cours du programmes incontournables -installation multimédia
-        - Conception d'une expérience multimédia
-        - Objets intéractifs
-        - Installation multimédia
+    - Conception d'une expérience multimédia
+    - Objets intéractifs
+    - Installation multimédia
   
   #### Technique nouvelle
-        Arduino
+    Arduino
 
 ##  Nexum
 
 Lien(https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html)
 
   #### Créateurs/créatrices:
-        Sébastien Reilly
-        Sabrina Laforest
-        Alexandre Daniel
-        Maxime Deslaurires
+    Sébastien Reilly
+    Sabrina Laforest
+    Alexandre Daniel
+    Maxime Deslaurires
 
   #### 3 cours du programmes incontournables -installation multimédia
-        -Insallation multimédia
-        -Objets inteeractifs
-        -Web 5
+    - Insallation multimédia
+    - Objets inteeractifs
+    - Web 5
 
   #### Technique nouvelle
-        QLC+
+    QLC+
   
   
 ## Zomie-Gal
@@ -80,47 +83,47 @@ Lien(https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html)
 lien (https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/index.html)
 
   #### Créateurs/créatrices:
-        Abdanor Yara
+    Abdanor Yara
 
   #### 3 cours du programmes incontournables -installation multimédia
-        -Web 5
-        -Illustration numérique
-        - Programmation interactive
+    - Web 5
+    - Illustration numérique
+    - Programmation interactive
 
   #### Technique nouvelle
-          CLIP PAINT STUDIO
+    CLIP PAINT STUDIO
 
 ## Préférences des projets lors de l'écoute audiovisuel
    #### #1
-          Echomarine
+     Echomarine
    #### #2
-          Edria
+     Edria
    #### #3
-          Nexum
+     Nexum
    #### #4
-          Lumasol
+     Lumasol
    #### #5
-          Zodiegal
+     Zodiegal
 ## Préférences des projets lors de la visite au studio
    #### #1
-          Edria
+     Edria
    #### #2
-          Echomarine
+     Echomarine
    #### #3
-          Nexum
+     Nexum
    #### #4
-          Lumasol
+     Lumasol
    #### #5
-          Zodiegal
+     Zodiegal
 ## Préférences des projets lors de la visite des projets multimédias
    #### #1
-          Zodiegal
-   #### #1
-          Edria
+     Zodiegal
    #### #2
-          Echomarine
+     Edria
    #### #3
-          Nexum
+     Echomarine
    #### #4
-          Lumasol
+     Nexum
+   #### #5
+     Lumasol
   
