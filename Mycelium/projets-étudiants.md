@@ -1,7 +1,8 @@
-####  Edira
+##  Edria
   Lien(https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html)
 
-  Créateurs/créatrices:
+  #### Créateurs/créatrices:
+  
     Elwin Durand
     Loic Delorme
     Dominic Roberts
@@ -9,73 +10,82 @@
     Meryem Berbiche
     Jean-Christophe
 
-  Installation en cours
+  #### Installation en cours
   
-  3 cours du programmes incontournables -installation multimédia
+  #### 3 cours du programmes incontournables -installation multimédia
       -installation multimedia
       -objets interactifs
       -préparation au millieu du travail
       -audio 2
 
-  Technique nouvelle
+  #### Technique nouvelle
       Madmapper 
     
-####  echo marine
+  ##  Echo marine
 
   lien (https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html)
 
-  Créatrice:
+  #### Créatrice:
     Florence Lapierre
     Natacha Abdallah
     Tracy Gua
     Maria Laura Coronel
 
-  3 cours du programmes incontournables -installation multimédia
+  #### 3 cours du programmes incontournables -installation multimédia
 
-  Technique nouvelle
+  #### Technique nouvelle
     VCV Rack 2
   
-####  Lumasol
+##  Lumasol
 
   Lien (https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html)
   
   
-  Créateurs/créatrices:
+  #### Créateurs/créatrices:
     Éloise Gagné
     Skayla Stimphill
     Michael Simard
     pénélope Morisson
     
 
-3 cours du programmes incontournables -installation multimédia
+  #### 3 cours du programmes incontournables -installation multimédia
+        - Conception d'une expérience multimédia
+        - Objets intéractifs
+        - Installation multimédia
+  
+  #### Technique nouvelle
+        Arduino
 
-Technique nouvelle
-  Arduino
+##  Nexum
 
-####  Boucler la boucle (neczoom)
+Lien(https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html)
 
-Lien(https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html)
+  #### Créateurs/créatrices:
+        Sébastien Reilly
+        Sabrina Laforest
+        Alexandre Daniel
+        Maxime Deslaurires
 
-Créateurs/créatrices:
-  Sébastien Reilly
-  Sabrina Laforest
-  Alexandre Daniel
-  Maxime Deslaurires
+  #### 3 cours du programmes incontournables -installation multimédia
+        -Insallation multimédia
+        -Objets inteeractifs
+        -Web 5
 
-3 cours du programmes incontournables -installation multimédia
-
-Technique nouvelle
-  QLC+
+  #### Technique nouvelle
+        QLC+
   
   
-#### Zomie-Gal
+## Zomie-Gal
 
-lien(https://tim-montmorency.com/2023/projets/LumaSol/docs/web/preproduction.html)
+lien (https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/index.html)
 
-Créateurs/créatrices:
-  Abdanor Yara
+  #### Créateurs/créatrices:
+        Abdanor Yara
 
-3 cours du programmes incontournables -installation multimédia
+  #### 3 cours du programmes incontournables -installation multimédia
+        -Web 5
+        -Illustration numérique
+        - Programmation interactive
 
-Technique nouvelle
- CLIP PAINT STUDIO
+  #### Technique nouvelle
+          CLIP PAINT STUDIO
