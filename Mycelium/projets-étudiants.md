@@ -20,6 +20,7 @@
 
   #### Technique nouvelle
     Madmapper 
+      C'est une application utilisé pour la projection des images, vidéos ou textures, contrôler les lumières régulière et LED,  ainsi que de contrôler et l'               utilisation des lasers.
     
   ##  Echo marine
 
@@ -38,6 +39,7 @@
 
   #### Technique nouvelle
     VCV Rack 2
+      C'est un application utilisé pour connecté plusieurs modules/types de son ensemble afin de synthisé un son.
   
 ##  Lumasol
 
@@ -76,6 +78,7 @@ Lien(https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html)
 
   #### Technique nouvelle
     QLC+
+      C'est le contôle des équipements de  lumières, celle-ci est souvent utilisé pour les concerts et théâtres.
   
   
 ## Zomie-Gal
@@ -92,6 +95,7 @@ lien (https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/index.html)
 
   #### Technique nouvelle
     CLIP PAINT STUDIO
+      C' est une application utilisé pour la création d'oeuvres digitales comme l'animation 2d, l'illustration ou la création de ''comics''.
 
 ## Préférences des projets lors de l'écoute audiovisuel
    #### #1
@@ -104,6 +108,7 @@ lien (https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/index.html)
      Lumasol
    #### #5
      Zodiegal
+     
 ## Préférences des projets lors de la visite au studio
    #### #1
      Edria
@@ -115,6 +120,7 @@ lien (https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/index.html)
      Lumasol
    #### #5
      Zodiegal
+     
 ## Préférences des projets lors de la visite des projets multimédias
    #### #1
      Zodiegal
