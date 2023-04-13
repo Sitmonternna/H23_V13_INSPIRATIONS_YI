@@ -22,15 +22,15 @@
 ### Détails de l'oeuvre
       Description
   
-  Type d'installation
+      Type d'installation
   
-  Fonction
+      Fonction
   
-  Mise en espace
+      Mise en espace
   
-  Composantes
+      Composantes
   
-  Éléments
+      Éléments
   
 ### Expérience vécue
   
