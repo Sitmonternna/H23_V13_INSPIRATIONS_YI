@@ -20,7 +20,8 @@
 
   #### Technique nouvelle
     Madmapper 
-      C'est une application utilisé pour la projection des images, vidéos ou textures, contrôler les lumières régulière et LED,  ainsi que de contrôler et l'               utilisation des lasers.
+      C'est une application utilisé pour la projection des images, vidéos ou textures, contrôler les lumières régulière et LED,  
+      ainsi que de contrôler et l'utilisation des lasers.
     
   ##  Echo marine
 
