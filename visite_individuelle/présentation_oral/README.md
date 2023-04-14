@@ -15,10 +15,13 @@
       Type d'exposition
   
       Lieu
+      
+  <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/visite_individuelle/photos/centre-phi.jpg" width="200px"  height="300px">    
   
-      Info sur le lieu
+  Info sur le lieu
   
       Date de la visite
+            25 mars 2023
   
 ### Détails de l'oeuvre
       Description
@@ -30,6 +33,9 @@
       Mise en espace
   
       Composantes
+      <img src=" " width=""  height=""> 
+      <img src=" " width=""  height=""> 
+      <img src=" " width=""  height=""> 
   
       Éléments
   
