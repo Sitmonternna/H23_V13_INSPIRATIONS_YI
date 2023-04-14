@@ -18,7 +18,7 @@
     
 ### Description de l'oeuvre
 
-    Cartel et diverses vues de l'oeuvres:
+    Diverses vues de l'oeuvres:
     
     Type d'installion
       Intéractive
