@@ -1,4 +1,5 @@
 ##  Edria
+  <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/Mycelium/photo%20projets/edria-logo.png" height="300px" width="400px">
   Lien(https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html)
 
   #### Créateurs/créatrices:
@@ -24,7 +25,7 @@
       ainsi que de contrôler et l'utilisation des lasers.
     
   ##  Echo marine
-
+  <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/Mycelium/photo%20projets/echomarine-logo.png" height="300px" width="300px">
   lien (https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html)
 
   #### Créatrice:
@@ -43,6 +44,7 @@
       C'est un application utilisé pour connecté plusieurs modules/types de son ensemble afin de synthisé un son.
   
 ##  Lumasol
+  <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/Mycelium/photo%20projets/lumasol-logo.png" height="300px" width="400px">
 
   Lien (https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html)
   
@@ -64,6 +66,8 @@
 
 ##  Nexum
 
+<img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/Mycelium/photo%20projets/nexum-logo.png" height="300px" width="400px">
+
 Lien(https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html)
 
   #### Créateurs/créatrices:
@@ -83,7 +87,7 @@ Lien(https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html)
   
   
 ## Zomie-Gal
-
+<img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/Mycelium/photo%20projets/zodiegal-logo.png" height="300px" width="400px">
 lien (https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/index.html)
 
   #### Créateurs/créatrices:
