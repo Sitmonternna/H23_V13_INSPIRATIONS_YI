@@ -1,7 +1,8 @@
 
 ### Objectif de cette présentation
 ### Aspect abordé
-<img src >
+
+<img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/visite_individuelle/photos/moi.jpg" >
 ### Information sur l'oeuvre
       Titre
   
