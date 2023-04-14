@@ -10,8 +10,10 @@
     Gabriel Leblanc
     Meryem Berbiche
     Jean-Christophe
-
+    
   #### Installation en cours
+
+  #### Schéma d'installation 
   
   #### 3 cours du programmes incontournables -installation multimédia
     -installation multimedia
@@ -33,7 +35,11 @@
     Natacha Abdallah
     Tracy Gua
     Maria Laura Coronel
+    
+  #### Installation en cours
 
+  #### Schéma d'installation 
+  
   #### 3 cours du programmes incontournables -installation multimédia
     - Web 5
     - Instalation multimédia
@@ -55,7 +61,10 @@
     Michael Simard
     pénélope Morisson
     
-
+  #### Installation en cours
+  
+  #### Schéma d'installation 
+  
   #### 3 cours du programmes incontournables -installation multimédia
     - Conception d'une expérience multimédia
     - Objets intéractifs
@@ -75,7 +84,11 @@ Lien(https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html)
     Sabrina Laforest
     Alexandre Daniel
     Maxime Deslaurires
-
+  
+  #### Installation en cours
+  
+  #### Schéma d'installation 
+  
   #### 3 cours du programmes incontournables -installation multimédia
     - Insallation multimédia
     - Objets inteeractifs
@@ -92,7 +105,11 @@ lien (https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/index.html)
 
   #### Créateurs/créatrices:
     Abdanor Yara
-
+    
+  #### Installation en cours
+    
+  #### Schéma d'installation 
+  
   #### 3 cours du programmes incontournables -installation multimédia
     - Web 5
     - Illustration numérique
