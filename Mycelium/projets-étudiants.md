@@ -155,3 +155,13 @@ lien (https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/index.html)
    #### #5
      Lumasol
   
+ ## Mon expérience
+     Zodiegal
+        Au début du jeu, je ne savais pas comment intéragir avec, donc je suis allée demander à un professeur comment le jeu marche. 
+        Par la suite, j'ai aimé l'interaction du jeu. J'ai aussi adoré les dessins dans le jeu.
+        
+     Edria
+     Echomarine
+     Nexum
+     Lumasol
+     
