@@ -44,7 +44,6 @@
   <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/Mycelium/photo%20projets/installion-echomarine(1).png">
 
   #### Schéma d'installation 
-       <img src="" height="400px" width="300px">
        
   
   #### 3 cours du programmes incontournables -installation multimédia
