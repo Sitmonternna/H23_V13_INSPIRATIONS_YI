@@ -10,7 +10,10 @@
     Gabriel Leblanc
     Meryem Berbiche
     Jean-Christophe
-    
+ 
+ #### Projet fini
+ <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/Mycelium/photo%20projets/edria.jpg" height="400px" width="600px">
+ 
   #### Installation en cours
   <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/Mycelium/photo%20projets/installion-edria(1).png" height= "400px" width="500px">
 
@@ -18,6 +21,7 @@
   <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/Mycelium/photo%20projets/sch%C3%A9ma_edria.png" height="400px" width="500px">
   
   #### 3 cours du programmes incontournables -installation multimédia
+  
     -installation multimedia
     -objets interactifs
     -préparation au millieu du travail
@@ -25,7 +29,6 @@
 
   #### Technique nouvelle
     Madmapper 
-      <img src="" height="300px" width="300px">
       C'est une application utilisé pour la projection des images, vidéos ou textures, contrôler les lumières régulière et LED,  
       ainsi que de contrôler et l'utilisation des lasers.
     
@@ -39,12 +42,17 @@
     Tracy Gua
     Maria Laura Coronel
     
+  #### Projet fini
+ <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/Mycelium/photo%20projets/echomarine.JPG" height="400px" width="600px">
+ 
+ 
   #### Installation en cours
   <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/Mycelium/photo%20projets/installion-echomarine(2).png" >
   <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/Mycelium/photo%20projets/installion-echomarine(1).png">
 
   #### Schéma d'installation 
-       
+  <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/Mycelium/photo%20projets/echomarine-schema_lumiere.png" width="600px"
+       height="400px">     
   
   #### 3 cours du programmes incontournables -installation multimédia
     - Web 5
@@ -67,11 +75,17 @@
     Michael Simard
     pénélope Morisson
     
+    
+  #### Projet fini
+ <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/Mycelium/photo%20projets/lumasol.JPG" height="400px" width="600px">
+ 
+ 
   #### Installation en cours
   <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/Mycelium/photo%20projets/lumasol_installation.jpg" width="500px" width="400px">
   
   #### Schéma d'installation 
-  <img src="" height="px" width="px">
+  <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/Mycelium/photo%20projets/lumasol_schema2.png" height="400px" width="500px">
+  <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/Mycelium/photo%20projets/lumasol_schema1.png" height="400px" width="500px">
   
   #### 3 cours du programmes incontournables -installation multimédia
     - Conception d'une expérience multimédia
@@ -80,6 +94,8 @@
   
   #### Technique nouvelle
     Arduino
+      C'est une carte électronique de prototypage où on peut raccordé des capteurs et actionneeurs. Celle-ci est constitué de plusieurs composantes 
+      électroniques et elle permet de stocker et exécuter un programme informatique.
 
 ##  Nexum
 
@@ -93,10 +109,16 @@ Lien(https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html)
     Alexandre Daniel
     Maxime Deslaurires
   
+   #### Projet fini
+ <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/Mycelium/photo%20projets/nexum.png.jpeg" height="400px" width="600px">
+ 
   #### Installation en cours
+  <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/Mycelium/photo%20projets/nexum_installation.png" height="400px" width="600px">
   
   #### Schéma d'installation 
-  <img src="" height="px" width="px">
+  <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/Mycelium/photo%20projets/schema3_nexum.png" height="400px" width="600px">
+  <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/Mycelium/photo%20projets/nexum_schema2.png" height="400px" width="600px">
+  <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/Mycelium/photo%20projets/schema3_nexum.png" height="400px" width="600px">
   
   #### 3 cours du programmes incontournables -installation multimédia
     - Insallation multimédia
@@ -115,9 +137,15 @@ lien (https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/index.html)
   #### Créateurs/créatrices:
     Abdanor Yara
     
+   #### Projet fini
+ <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/Mycelium/photo%20projets/zodiegal.png" height="500px" width="400px">
+ 
   #### Installation en cours
+  <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/Mycelium/photo%20projets/schema_zodiegal.png" height="400px" width="500px">
     
   #### Schéma d'installation 
+  <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/Mycelium/photo%20projets/zodiegal-schema2.png" height="500px" width="400px">
+  <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/Mycelium/photo%20projets/zodiegal_.png" height="500px" width="400px">
   
   #### 3 cours du programmes incontournables -installation multimédia
     - Web 5
@@ -129,40 +157,26 @@ lien (https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/index.html)
       C' est une application utilisé pour la création d'oeuvres digitales comme l'animation 2d, l'illustration ou la création de ''comics''.
 
 ## Préférences des projets lors de l'écoute audiovisuel
-   #### #1
-     Echomarine
-   #### #2
-     Edria
-   #### #3
-     Nexum
-   #### #4
-     Lumasol
-   #### #5
-     Zodiegal
-     
+
+        #1 Echomarine
+        #2 Edria
+        #3 Nexum
+        #4 Lumasol
+        #5 Zodiegal
 ## Préférences des projets lors de la visite au studio
-   #### #1
-     Edria
-   #### #2
-     Echomarine
-   #### #3
-     Nexum
-   #### #4
-     Lumasol
-   #### #5
-     Zodiegal
-     
+
+        #1 Edria
+        #2 Echomarine
+        #3 Nexum
+        #4 Lumasol
+        #5 Zodiegal
+        
 ## Préférences des projets lors de la visite des projets multimédias
-   #### #1
-     Zodiegal
-   #### #2
-     Edria
-   #### #3
-     Echomarine
-   #### #4
-     Nexum
-   #### #5
-     Lumasol
+        #1 Zodiegal
+        #2 Edria
+        #3 Echomarine
+        #4 Nexum
+        #5 Lumasol
   
  ## Mon expérience
      Zodiegal
@@ -175,11 +189,7 @@ lien (https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/index.html)
      Lumasol
 
 ## Sources
-     Madmapper: https://vuo.org/file/3678
-     VCV : https://community.vcvrack.com/
-     Arduino: https://commons.wikimedia.org/wiki/File:Arduino_Logo.svg
-     QLC+ : http://www.qlcplus.org/forum/viewtopic.php?t=14094
-     Clip paint studio: https://commons.wikimedia.org/wiki/File:Clip_studio_file_logo_SVG.svg
+     Images:https://tim-montmorency.com/2023/
      
      
      
