@@ -184,13 +184,24 @@ lien (https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/index.html)
         Par la suite, j'ai aimé l'interaction du jeu. J'ai aussi adoré les dessins dans le jeu.
         
      Edria
+        J'ai aimé le fait que l'exposition était très étaller sur un grand espace, j'aurais aimais de le voir durant le soir ou la nuit. 
+        Pourvu que je suis parti aller voir l'exposition durant l'après-midi et qu'il pleuvait je ne pouvait pas très bien voir les lumieres.
+        D'ailleurs j'ai trouver que la musique marchait très bien avec l'exposition, ça donnait une ambiamce fantastique, qui ce que j'aime.
+        
      Echomarine
+        J'ai beaucoup aimé ce projet d'immersion dans une atmosphère d'écho-marine, j'aimé les animations, ils étaients très fluides. Je pense que
+        l' équipe de cet exposition on fait un bon travail affait de présenter les differentes espèces marins. J'ai trouver que c'était une façcon
+        efficace et détaillé ou les gens ne seront pas ennuiyé et que les animations nous fait interagir donc on avait quelque chose a s'amuser             avec.
+        
      Nexum
+     J'ai aimé le fait que la lumière s'allumait quand on passait a coté, mais j'était un peu dessus que les grosses boules de lumières ne faisait
+     pas de interactions. De plus, je pense que l'animation avec le code QR complimentait bien le thème de cet exposition.
+     
      Lumasol
-
+     J'ai bien aimé l'interaction des lumières de l' équipes ont pensés, les lumières dans les arbres étaient très jolies à voir dans les photos        dans le site web du TIM. Quand je suis allé visiter l'exposition il était jour et il pleuvait donc ce n'était pas très agéable de s'Assoir sur      le vélo dans cette température.
+     
 ## Sources
      Images:https://tim-montmorency.com/2023/
-     
      
      
      
