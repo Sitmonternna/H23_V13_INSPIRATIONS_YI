@@ -1,32 +1,33 @@
 # Halo Création
 
 ## Thème de la conférence
-   Le directeur général  de Halo création, Yanik Daunais  qui est aussi un producteur dans cette compagnie est venu nous 
-   parler du déroulement d'une création du projet. Ce qui se passe durant une pré-production et l'installation
-   des expositions. 
+      Le directeur général  de Halo création, Yanik Daunais  qui est aussi un producteur dans cette compagnie est 
+      venu nous parler du déroulement d'une création du projet. Ce qui se passe durant une pré-production et l'
+      installation des expositions. 
 
 ## Grande ligne de la présentation
     Durant la conférence, Yanik parle des étapes qu' Halo création apporte lors de la crétion d'un projet/exposition:
     
         1- Le message:
-            C'est le message derrière l'oeuvre, cq qu'on veut communiquer au publique qui vient y visiter, quelle sensation 
-            veut on donner au visiteurs.
+            C'est le message derrière l'oeuvre, cq qu'on veut communiquer au publique qui vient y visiter, quelle 
+            sensation veut on donner au visiteurs.
             
         2- Groupe visé:
-            On doit prendre en compte los de la pre-production à quelle type de public l'exposition vise. Pourvu qu'on doit 
-            s'ajuster au niveau de hiéarchie social et de connaissances pour que le public visé puisse s'amuser.
+            On doit prendre en compte los de la pre-production à quelle type de public l'exposition vise. Pourvu 
+            qu'on doit s'ajuster au niveau de hiéarchie social et de connaissances pour que le public visé puisse s'amuser.
             
         3- La narrative:
             C'est la façon dont on va raconter et sensibiliser les gens à prpos de l'idée derrière l'oeuvre.
          
         4- Modes:
-            Il existe différents mode d'installation/exposition qu'on peut faire dont intéractif, immersive, réalité augmenté 
-            et le pacif qui est de impressionner les gens. Il nous affirme qu'on peut également combiner 2 modes ensembles.
+            Il existe différents mode d'installation/exposition qu'on peut faire dont intéractif, immersive, réalité 
+            augmenté et le pacif qui est de impressionner les gens. Il nous affirme qu'on peut également combiner 2 
+            modes ensembles.
             
         5- Expérience du visiteur: 
             Quelle type de sens veut on que les visiteurs expériencent: 
-              les 5 sens, sens vestibulaire qui est notre sensation dans l'espace, le sens de proprioceptifs. De plus, l'expérience 
-              doit être intuitif  et le visiteur doit pouvoir être capable de le suivre avec des étapes(step by step).
+              les 5 sens, sens vestibulaire qui est notre sensation dans l'espace, le sens de proprioceptifs. De plus, 
+              l'expérience doit être intuitif  et le visiteur doit pouvoir être capable de le suivre avec des étapes(step by step).
          
         6- Le temps:
             C'est la durée à laquelle l'exposition restera installer:
@@ -34,13 +35,14 @@
                 permanant
                 
         7- Le matérielle choisi:
-            Le choix du matérielle est très important, pourvu que cette entreprise sont conscient de l'environnement, il veut utiliser 
-            des matériaux  qui sont recyclabes et réeutilisables. Ils pensent à comment ils pourront réutiliser ces pièces dans des projets 
-            futurs. D'ailleurs il préférère de payer pour des matériaux qui sont plus couteaux pour ne pas rencontrer des problèmes au cours de  
-            l'installation.
+            Le choix du matérielle est très important, pourvu que cette entreprise sont conscient de l'environnement, il 
+            veut utiliser des matériaux  qui sont recyclabes et réeutilisables. Ils pensent à comment ils pourront réutiliser ces 
+            pièces dans des projets futurs. D'ailleurs il préférère de payer pour des matériaux qui sont plus couteaux pour ne pas 
+            rencontrer des problèmes au cours de l'installation.
             
         8- Moyen technologique
-            Yanik a mis pour d'accent sur les projecteurs de lumières, il nous a parler de différents types de projecteurs qu'on peut utiliser 
+            Yanik a mis pour d'accent sur les projecteurs de lumières, il nous a parler de différents types de projecteurs qu'on 
+            peut utiliser 
             pour la projection de lumière. La mise à jour des nouveaux produits et technologie est très importante puisse qu'on doit savoir
             les possibilité qu'on peut utiliser à la création.
             
