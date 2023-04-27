@@ -36,7 +36,7 @@
   
       Composantes
       
-  
+      < img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/visite_individuelle/photos/ecouteur.jpg">
       Éléments
   
 ### Expérience vécue
