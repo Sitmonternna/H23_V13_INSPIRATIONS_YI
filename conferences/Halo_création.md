@@ -1,7 +1,9 @@
 # Halo Création
 
 ## Thème de la conférence
-      
+   Le directeur général  de Halo création, Yanik Daunais  qui est aussi un producteur dans cette compagnie est venu nous 
+   parler du déroulement d'une création du projet. Ce qui se passe durant une pré-production et l'installation
+   des expositions. 
 
 ## Grande ligne de la présentation
     Durant la conférence, Yanik parle des étapes qu' Halo création apporte lors de la crétion d'un projet/exposition:
@@ -60,6 +62,8 @@
             nous devons se laisser un 10% à 30% pour des imprévus. 
 
 ## Appréciation
-    J
+    J' ai bien aimé cette présentation, durant cette session cette conférence est ma préféré. J' ai apris beaucoup de nouvelle 
+    information à prpos du domaine, de plus il y a des notions qu'il nous avait parler dont je ne savais pas étaient des acquis 
+    pour travailler dans ce domaine, dont l'électricité.
 
         
