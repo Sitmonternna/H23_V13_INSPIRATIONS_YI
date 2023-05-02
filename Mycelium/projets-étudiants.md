@@ -1,6 +1,11 @@
 ##  Edria
   <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/Mycelium/photo%20projets/edria-logo.png" height="300px" width="400px">
-  Lien(https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html)
+  
+  #### Lien
+  
+          Edria est une exposition qui représente la nature et elle est démontrer par les décoration de nature ainsi que de variété
+          couleurs de lumières. Le son choisi pour cette exposition nous donne une ère fantastique et nous fait ressentir la présence 
+          de la nature.
 
   #### Créateurs/créatrices:
   
@@ -34,7 +39,10 @@
     
   ##  Echomarine
   <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/Mycelium/photo%20projets/echomarine-logo.png" height="300px" width="300px">
-  lien (https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html)
+  
+  #### lien
+  
+          Echomarine fait un lien avec le thème  de mycélium en représentant le biodome de la mer/océan.
 
   #### Créatrice:
     Florence Lapierre
@@ -66,7 +74,10 @@
 ##  Lumasol
   <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/Mycelium/photo%20projets/lumasol-logo.png" height="300px" width="400px">
 
-  Lien (https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html)
+   #### Lien
+   
+          Lumasol est une exposition d'ou les créateur on voulu nous présenté une nature fantastique représenté par des lumières et qui 
+          nous fait faire de l'exercice. Donc la nature est l'élément qui vient faire le lien avec le thème.
   
   
   #### Créateurs/créatrices:
@@ -101,7 +112,10 @@
 
 <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/Mycelium/photo%20projets/nexum-logo.png" height="300px" width="400px">
 
-Lien(https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html)
+  #### Lien
+  
+      Le lien au thème est qu'il y avait une animation qui peut être accédé à partir d'un code QR, celui-ci est une animation 
+      de champignon, ce qui relié au thème.
 
   #### Créateurs/créatrices:
     Sébastien Reilly
@@ -132,7 +146,12 @@ Lien(https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html)
   
 ## Zomie-Gal
 <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/Mycelium/photo%20projets/zodiegal-logo.png" height="300px" width="400px">
-lien (https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/index.html)
+
+#### lien 
+
+      Zodie-Gal est un jeu vidéo et le lien qu'elle fait avec le thème de mycélium est qu'elle représente celui-ci dans ses arts/dessin.
+      Chaque page de différents zodiaques on retrouve différent biodome et s'il n'est pas il y a des champignons pour représenter le thème.
+ 
 
   #### Créateurs/créatrices:
     Abdanor Yara
@@ -191,7 +210,7 @@ lien (https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/index.html)
      Echomarine
         J'ai beaucoup aimé ce projet d'immersion dans une atmosphère d'écho-marine, j'aimé les animations, ils étaients très fluides. Je pense que
         l' équipe de cet exposition on fait un bon travail affait de présenter les differentes espèces marins. J'ai trouver que c'était une façcon
-        efficace et détaillé ou les gens ne seront pas ennuiyé et que les animations nous fait interagir donc on avait quelque chose a s'amuser             avec.
+        efficace et détaillé ou les gens ne seront pas ennuiyé et que les animations nous fait interagir donc on avait quelque chose a s'amuser                     avec.
         
      Nexum
      J'ai aimé le fait que la lumière s'allumait quand on passait a coté, mais j'était un peu dessus que les grosses boules de lumières ne faisait
