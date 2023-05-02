@@ -3,9 +3,13 @@
 
 <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/visite_individuelle/photos/moi.jpg" >
 ### Information sur l'oeuvre
+<img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/visite_individuelle/photos/cartel-man.jpg" height= "700px" width="500px">
       Titre
          The man who couldn't leave 
-         
+         <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/visite_individuelle/photos/moi.jpg" >
+         <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/visite_individuelle/photos/moi.jpg" >
+         <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/visite_individuelle/photos/moi.jpg" >
+         <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/visite_individuelle/photos/moi.jpg" >
       Nom de l'artiste
         Chen Singing
         
@@ -26,6 +30,7 @@
             25 mars 2023
   
 ### Détails de l'oeuvre
+<img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/visite_individuelle/photos/moi.jpg" >
       Description
   
       Type d'installation
@@ -35,10 +40,16 @@
       Mise en espace
   
       Composantes
+  <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/visite_individuelle/photos/moi.jpg" >
+  <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/visite_individuelle/photos/fil_attache.jpg" >
+  <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/visite_individuelle/photos/ecouteur.jpg" height= "500px" width="500px">
+  <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/visite_individuelle/photos/moi.jpg" >
       
-      < img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/visite_individuelle/photos/ecouteur.jpg">
       Éléments
+      <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/visite_individuelle/photos/signe.jpg">
+  <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/visite_individuelle/photos/moi.jpg" >
   
+  <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/visite_individuelle/photos/ecouteur.jpg" height= "500px" width="500px">
 ### Expérience vécue
   
 ### Appréciation
