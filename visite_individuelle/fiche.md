@@ -64,13 +64,13 @@
   <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/visite_individuelle/photos/mate%CC%81riaux.jpg" height="400px" width=300px">
       
       Éléments nécessaires
-      Le musée est responsable de toute l'ambiances faites avec les lumières, de la décoration de chaque chambres ainsi
-      que des installations de fils brancher avec casques. Celui-ci a aussi construit un emplacement pour charger la 
-      manette et casque.
+            Le musée est responsable de toute l'ambiances faites avec les lumières, de la décoration de chaque chambres 
+            ainsi que des installations de fils brancher avec casques. Celui-ci a aussi construit un emplacement pour 
+            charger la manette et casque.
      
 ### Expérience vécue
-  Je pense que les oeuvres étaient bienfaites, c'était une bonne expérience. Je n' est pas fait beaucoup de réalité virtuelle
-  auparavant donc j' ai bien aimé d'en avoir vus.
+        Je pense que les oeuvres étaient bienfaites, c'était une bonne expérience. Je n' est pas fait beaucoup de réalité 
+        virtuelle auparavant donc j' ai bien aimé d'en avoir vus.
       
 ### Appréciation
       J'ai aimé 2 sur 4 oeuvres que j'ai visionnée, dont celle que j'ai présenté et  «red tail» qui est est la
