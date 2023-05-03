@@ -21,18 +21,15 @@
       2023
     
 ### Description de l'oeuvre
-Diverses vues de l'oeuvres:
 
 <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/Mycelium/oeuvre-retenu-photo/ensemble.jpg" height="400px" width="500px">
 
 Type d'installion
-
       Intéractive
       
    
  Mise en espace
-    <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/Mycelium/oeuvre-retenu-photo/croquis-face.jpg" height="400px" width="500px">
-   
+    <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/Mycelium/oeuvre-retenu-photo/croquis_oeuvre.jpg" height="400px" width="500px">
    
     Composante technique
        un ordinateur
@@ -53,10 +50,12 @@ Type d'installion
       donc j'étais confuse.
 
 ### Appréciations
-    J'ai 
+    J'ai beaucoup aimé l'art des pages, j'aime le style des oeuvres. Je trouve que l'ambiance de la pièce a été bien faite, je
+    trouve que le thème de couleurs orange marche très bien bien avec cette oeuvre technologique, surtout la flèche qui était animé.
 
 ### Critiques
-    
+    Je pense que le pouvait avoir une page avec des explications pour nos dire le but du jeu parce que j'étais vraiment confuse
+    quand j'avais commencer le jeu.
     
     
 
