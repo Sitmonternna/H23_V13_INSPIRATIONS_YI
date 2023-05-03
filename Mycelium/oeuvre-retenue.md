@@ -21,14 +21,19 @@
       2023
     
 ### Description de l'oeuvre
+Diverses vues de l'oeuvres:
 
-    Diverses vues de l'oeuvres:
-    
-    Type d'installion
+<img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/Mycelium/oeuvre-retenu-photo/ensemble.jpg" height="400px" width="500px">
+
+Type d'installion
+
       Intéractive
       
-    Mise en espace
-    
+   
+ Mise en espace
+    <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/Mycelium/oeuvre-retenu-photo/croquis-face.jpg" height="400px" width="500px">
+   
+   
     Composante technique
        un ordinateur
        une souris 
