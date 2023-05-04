@@ -48,6 +48,9 @@ Type d'installion
 ### Expérience vécue
       Lors du commencement du jeu, je ne savais pas quoi faire pour pouvoir jouer au jeu pourvu qu'il n'y avait pas d'instruction
       donc j'étais confuse.
+      
+      Lien vers vidéo d'intéraction: https://www.youtube.com/shorts/VnfayZLDKHQ
+    
 
 ### Appréciations
     J'ai beaucoup aimé l'art des pages, j'aime le style des oeuvres. Je trouve que l'ambiance de la pièce a été bien faite, je
