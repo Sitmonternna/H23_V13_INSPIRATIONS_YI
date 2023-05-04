@@ -106,8 +106,8 @@
   
   #### Technique nouvelle
     Arduino
-      C'est une carte électronique de prototypage où on peut raccordé des capteurs et actionneeurs. Celle-ci est constitué de plusieurs composantes 
-      électroniques et elle permet de stocker et exécuter un programme informatique.
+      C'est une carte électronique de prototypage où on peut raccordé des capteurs et actionneeurs. Celle-ci est constitué de plusieurs 
+      composantes électroniques et elle permet de stocker et exécuter un programme informatique.
 
 ##  Nexum
 
@@ -174,7 +174,7 @@
 
   #### Technique nouvelle
     CLIP PAINT STUDIO
-      C' est une application utilisé pour la création d'oeuvres digitales comme l'animation 2d, l'illustration ou la création de ''comics''.
+      C' est une application utilisé pour la création d'oeuvres digitales comme l'animation 2d, l'illustration ou la création de "comics".
 
 ## Préférences des projets lors de l'écoute audiovisuel
 
@@ -211,14 +211,16 @@
      Echomarine
         J'ai beaucoup aimé ce projet d'immersion dans une atmosphère d'écho-marine, j'aimé les animations, ils étaients très fluides. Je pense que
         l' équipe de cet exposition on fait un bon travail affait de présenter les differentes espèces marins. J'ai trouver que c'était une façcon
-        efficace et détaillé ou les gens ne seront pas ennuiyé et que les animations nous fait interagir donc on avait quelque chose a s'amuser                     avec.
+        efficace et détaillé ou les gens ne seront pas ennuiyé et que les animations nous fait interagir donc on avait quelque chose a s'amuser                                 avec.
         
      Nexum
      J'ai aimé le fait que la lumière s'allumait quand on passait a coté, mais j'était un peu dessus que les grosses boules de lumières ne faisait
      pas de interactions. De plus, je pense que l'animation avec le code QR complimentait bien le thème de cet exposition.
      
      Lumasol
-     J'ai bien aimé l'interaction des lumières de l' équipes ont pensés, les lumières dans les arbres étaient très jolies à voir dans les photos        dans le site web du TIM. Quand je suis allé visiter l'exposition il était jour et il pleuvait donc ce n'était pas très agéable de s'Assoir sur      le vélo dans cette température.
+     J'ai bien aimé l'interaction des lumières de l' équipes ont pensés, les lumières dans les arbres étaient très jolies à voir dans les photos       
+     dans le site web du TIM. Quand je suis allé visiter l'exposition il était jour et il pleuvait donc ce n'était pas très agéable de s'Assoir sur  
+     le vélo dans cette température.
      
 ## Sources
      Images:https://tim-montmorency.com/2023/
