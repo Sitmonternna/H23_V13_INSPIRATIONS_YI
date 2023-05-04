@@ -2,10 +2,11 @@
   <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/Mycelium/photo%20projets/edria-logo.png" height="300px" width="400px">
   
   #### Lien
-  
+          https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html
           Edria est une exposition qui représente la nature et elle est démontrer par les décoration de nature ainsi que de variété
           couleurs de lumières. Le son choisi pour cette exposition nous donne une ère fantastique et nous fait ressentir la présence 
           de la nature.
+          
 
   #### Créateurs/créatrices:
   
@@ -41,7 +42,7 @@
   <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/Mycelium/photo%20projets/echomarine-logo.png" height="300px" width="300px">
   
   #### lien
-  
+          https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html
           Echomarine fait un lien avec le thème  de mycélium en représentant le biodome de la mer/océan.
 
   #### Créatrice:
@@ -75,7 +76,7 @@
   <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/Mycelium/photo%20projets/lumasol-logo.png" height="300px" width="400px">
 
    #### Lien
-   
+          https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html
           Lumasol est une exposition d'ou les créateur on voulu nous présenté une nature fantastique représenté par des lumières et qui 
           nous fait faire de l'exercice. Donc la nature est l'élément qui vient faire le lien avec le thème.
   
@@ -113,7 +114,7 @@
 <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/Mycelium/photo%20projets/nexum-logo.png" height="300px" width="400px">
 
   #### Lien
-  
+      https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html
       Le lien au thème est qu'il y avait une animation qui peut être accédé à partir d'un code QR, celui-ci est une animation 
       de champignon, ce qui relié au thème.
 
