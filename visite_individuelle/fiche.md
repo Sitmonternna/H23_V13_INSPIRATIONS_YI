@@ -9,7 +9,7 @@
       5-Une conclusion
 
 ### Information sur l'oeuvre
- <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/visite_individuelle/photos/art-vr.JPG" height="300px" width="400px">         
+<img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/visite_individuelle/photos/art-vr.JPG" height="300px" width="400px">         
 <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/visite_individuelle/photos/cartel-man.jpg" height= "500px" width="300px">
 <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/visite_individuelle/photos/devant.jpg" height="400px" width="500px">
           <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/visite_individuelle/photos/signe.jpg" height="400px" width="300px">
@@ -51,7 +51,9 @@
             Intéractive
             
       Fonction
-            Sa fonction est de nous informez/partagez de la guerre qui c'est passé au Taiwan.
+            Sa fonction est de nous informez/partagez de la guerre qui c'est passé au Taiwan à partir de la réalité 
+            virtuelle. On commence la vidéeo à partir de la manette, on doit viser le laser au boutton play.
+            
       Mise en espace
   <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/visite_individuelle/photos/croquis_oeuvre.jpg" height="400px" width="500px">
      
@@ -94,3 +96,6 @@
       Ce cours est important pour notre programme si nous voulons installé notre oeuvre dans un musé. J'ai apprécier 
       les nouveaux oeuvres et artistes présenter au courant de la session. Les conférences présenter étaient aussi
       apprécier, j'ai appris beaucoup de choses grâce à ces conférences.
+
+### Sources
+      https://phi.ca/fr/evenements/chaos-et-memoires/
