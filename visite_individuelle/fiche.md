@@ -3,7 +3,8 @@
 <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/visite_individuelle/photos/cartel-man.jpg" height= "500px" width="300px">
 <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/visite_individuelle/photos/devant.jpg" height="400px" width="500px">
           <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/visite_individuelle/photos/signe.jpg" height="400px" width="300px">
-
+          lien:https://www.youtube.com/watch?v=uNmJW7ygC9Q
+          
       Titre
         The man who couldn't leave 
 
@@ -43,35 +44,31 @@
       Fonction
             De nous partager les conséquences de l'après-guerre.
             
+            
+            
       Mise en espace
-  <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/visite_individuelle/photos/croquis_oeuvre.jpg" height="400px" width="500px">
+  <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/visite_individuelle/photos/mise%20en%20espace.jpg" height="400px" width="500px">
      
       Composantes
        Cette oeuvre a été créer à l'aide de la programmation. Elle est composé d'un casque de vr, une manette, une 
        chaise et une paire de casque d'écoute. Le casque était lier au plafond grâce à un fil suspendu du plafond.
-      
+        
   <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/visite_individuelle/photos/ambiance.jpg" height="400px" width="300px">
   <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/visite_individuelle/photos/fil_attache.jpg" height="400px" width="300px">
   <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/visite_individuelle/photos/mate%CC%81riaux.jpg" height="400px" width=300px">
-      
+          
       Éléments nécessaires
             Le musée est responsable de toute l'ambiances faites avec les lumières, de la décoration de chaque chambres 
             ainsi que des installations de fils brancher avec casques. Celui-ci a aussi construit un emplacement pour 
             charger la manette et casque.
      
 ### Expérience vécue
-        lien(https://www.youtube.com/watch?v=uNmJW7ygC9Q)
-          [watch?v=uNmJW7ygC9Q](https://www.youtube.com/watch?v=uNmJW7ygC9Q)
+          
         Je pense que les oeuvres étaient bienfaites, c'était une bonne expérience. Je n' est pas fait beaucoup de réalité 
         virtuelle auparavant donc j' ai bien aimé d'en avoir vus.
       
-### Appréciation
-      
-      
-### Critiques 
+## Appréciation
      
-  
-
 ### Sources
       https://phi.ca/fr/evenements/chaos-et-memoires/
       https://www.youtube.com/watch?v=uNmJW7ygC9Q
