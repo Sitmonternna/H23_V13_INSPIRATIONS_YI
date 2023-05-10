@@ -63,7 +63,6 @@
             charger la manette et casque.
      
 ### Expérience vécue
-          
         Je pense que les oeuvres étaient bienfaites, c'était une bonne expérience. Je n' est pas fait beaucoup de réalité 
         virtuelle auparavant donc j' ai bien aimé d'en avoir vus.
       
