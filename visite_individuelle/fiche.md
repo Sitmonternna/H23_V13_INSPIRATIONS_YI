@@ -1,14 +1,4 @@
 # The man who couldn't leave 
-### Objectif de cette présentation
-      Présenter une nouvelle oeuvre technologique à la classe
-### Aspect abordé
-      1- Information de l'oeuvre
-      2- Description de l'oeuvre
-      3-Appréciation
-      4-Liens avec autres oeuvres vuent au courant de la session
-      5-Une conclusion
-
-### Information sur l'oeuvre
 <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/visite_individuelle/photos/art-vr.JPG" height="300px" width="400px">         
 <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/visite_individuelle/photos/cartel-man.jpg" height= "500px" width="300px">
 <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/visite_individuelle/photos/devant.jpg" height="400px" width="500px">
@@ -48,11 +38,10 @@
             à leur famille. Ainsi de ce qui est passé après la guerre/rébeillion.
             
       Type d'installation
-            Intéractive
+            Immersion, temporaire 22 mars au 11 juin
             
       Fonction
-            Sa fonction est de nous informez/partagez de la guerre qui c'est passé au Taiwan à partir de la réalité 
-            virtuelle. On commence la vidéeo à partir de la manette, on doit viser le laser au boutton play.
+            De nous partager les conséquences de l'après-guerre.
             
       Mise en espace
   <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/visite_individuelle/photos/croquis_oeuvre.jpg" height="400px" width="500px">
@@ -71,31 +60,17 @@
             charger la manette et casque.
      
 ### Expérience vécue
+        https://www.youtube.com/watch?v=uNmJW7ygC9Q
         Je pense que les oeuvres étaient bienfaites, c'était une bonne expérience. Je n' est pas fait beaucoup de réalité 
         virtuelle auparavant donc j' ai bien aimé d'en avoir vus.
       
 ### Appréciation
-      J'ai aimé 2 sur 4 oeuvres que j'ai visionnée, dont celle que j'ai présenté et  «red tail» qui est est la
-      seule à être une animation. Par contre tout au long de l'animation, le visionnement se faisait en hauteur, 
-      c'était la seule chose que je n'aimais pas de cette oeuvres. J'ai aimé the man who couldn't leave pourvu que 
-      j'ai appris quelque chose de nouveau durant le visionnement.
+      
       
 ### Critiques 
-      Deux des 4 oeuvres qui a été présenté au cours de cet exposition avaient beaucoup de nudité, les employés
-      ont fait un avertissement, mais ça serait préférable qu'il précise que c'est très inconfortable. De plus,
-      regarder 4 oeuvres virtuelle une à la suite de l'autre m'a rendu étourdit à la fin de l'exposition.
-      
-### Liens avec autres oeuvres
-      Aucun, de ma mémoire je ne me rappelle pas d'avoir une oeuvre qui nous parle d'une guerre de leur pays.
-      
-### Petit rappel
-      Ceci était la présentation d'une exposition de réalité virtuelle de «The man who couldn't leave» et elle 
-      parle de la guerre qui s'est passé en Taiwan. Celle-ci prend place au centre phi.
-      
-### Éléments retenues au cours de la session
-      Ce cours est important pour notre programme si nous voulons installé notre oeuvre dans un musé. J'ai apprécier 
-      les nouveaux oeuvres et artistes présenter au courant de la session. Les conférences présenter étaient aussi
-      apprécier, j'ai appris beaucoup de choses grâce à ces conférences.
+     
+  
 
 ### Sources
       https://phi.ca/fr/evenements/chaos-et-memoires/
+      https://www.youtube.com/watch?v=uNmJW7ygC9Q
