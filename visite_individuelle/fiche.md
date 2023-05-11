@@ -1,9 +1,10 @@
 # The man who couldn't leave 
-<img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/visite_individuelle/photos/art-vr.JPG" height="300px" width="400px">         
+<img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/visite_individuelle/photos/art-vr.JPG" height="300px" width="400px">  
+lien:https://www.youtube.com/watch?v=uNmJW7ygC9Q
 <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/visite_individuelle/photos/cartel-man.jpg" height= "500px" width="300px">
 <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/visite_individuelle/photos/devant.jpg" height="400px" width="500px">
           <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/visite_individuelle/photos/signe.jpg" height="400px" width="300px">
-          lien:https://www.youtube.com/watch?v=uNmJW7ygC9Q
+          
           
       Titre
         The man who couldn't leave 
@@ -15,13 +16,13 @@
         2022
         
       Nom de l'expositon
-        Centre PHI
+        Chaos et mémoire
         
       Type d'exposition
         Réalité virtuelle
         
       Lieu 
-        315 Rue Saint-Paul O, Montréal, QC H2Y 2A3    
+        315 Rue Saint-Paul , Montréal, QC H2Y 2A3    
    <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/visite_individuelle/photos/centre-phi.jpg" height="400px" width="300px">
    <img src="https://github.com/Sitmonternna/H23_V13_INSPIRATIONS_YI/blob/main/visite_individuelle/photos/moi.jpg" >
 
